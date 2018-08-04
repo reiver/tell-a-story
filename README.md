@@ -156,6 +156,10 @@ And let's say that yet again….
 
 (Remember, the _character_ can be you. This can be a _true story_.)
 
+(Or the _character_ can be someone else.)
+
+(Or the _character_ can even be fictional and made up.)
+
 ¶
 
 If you are trying to tell a story about yourself or your own life, some questions you can ask yourself, to put your story into this framework, is:

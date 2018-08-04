@@ -8,7 +8,7 @@ Whether you are giving a talk at a meetup, pitching your would-be startup to inv
 
 There is something about the human mind that makes it receptive to stories and narratives.
 
-So **tell a story!**
+So **tell a story!** 🙂
 
 
 ## Preamble

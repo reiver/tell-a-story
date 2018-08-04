@@ -316,7 +316,7 @@ The meanings of these sub-sections are:
 	* **call to adventure**: this is about the hero or protagonist or character being faced with something that makes them begin their ‘adventure’. this might be a problem or challenge that needs overcome.
 	* **refusal of the call**: this is about the hero or protagonist or character attempting to refuse the ‘adventure’. maybe because they are afraid. maybe because they have other duties or obligations. maybe because they worry about how much work it will be. maybe because or insecurity. etc.
 	* **meeting with the mentor**: this is about the hero or protagonist or character meeting someone that can ready him for the journey ahead. maybe by providing advice. maybe providing him with something a tool, talismans, artifact, etc that will help the hero or protagonist or character later in their journey.
-	* **crossing the first threshold**
+	* **crossing the first threshold**: this is about the hero or protagonist or character, for the first time (during this story), leaving their ‘ordinary world’ and ‘crossing the threshold’ into ‘adventure’, (either literally or metaphorically). this could involve danger. this could involve risk. this could involved the unknown. etc.
 * **initiation**
 	* **tests, allies, enemies**
 	* **approach**

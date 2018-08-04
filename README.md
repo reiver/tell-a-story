@@ -146,9 +146,9 @@ The **character** ends up **transformed** as a result, regardless of whether the
 
 And let's say that yet again….
 
-What does your character want?
-What does your character need to overcome to get it?
-And how has trying to overcome those things changed your character?
+**What does your character want?**
+**What does your character need to overcome to get it?**
+**And how has trying to overcome those things changed your character?**
 
 (Remember, the _character_ can be you. This can be a _true story_.)
 

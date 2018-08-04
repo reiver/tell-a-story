@@ -13,7 +13,7 @@ So **tell a story!** 🙂
 
 ## Preamble
 
-But before I offer some advice on _how_ you could _tell a story_, let me tell you a story_ of my own.
+But before I offer some advice on _how_ you could _tell a story_, let me _tell you a story_ of my own.
 
 This story is about how I realized just how important **telling a story** can be.
 

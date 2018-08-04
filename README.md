@@ -216,3 +216,44 @@ _Story_ without _content_ (your audience cares about) is not enough.
 
 **Both** _content_ and _story_ matter.
 
+
+## Story Arc
+
+An additional framework that can be useful (**to use with the previous framwork**) is the **story arc**.
+
+A useful structure for a story arc has 3 components:
+
+* a **beginning**,
+* a **middle**, and
+* an **end**.
+
+In terms of your **character** (whether that _character_ is you, is someone else, or is fictional), you can ask yourself:
+
+* where does your character begin?
+* what's the middle?
+* where does your character end up?
+
+
+## Multiple Levels Of Stories and Story Arc
+
+If you are creating a course, or a vlogging, you can have stories and story arcs at multiple levels.
+
+More specifically, you can have **intra-episode** stories and story arcs, and **inter-episode** stories and story arcs.
+
+(Let me explain what those mean.)
+
+Each episode of a vlog should have its own self-contained story.
+(I.e., an intra-episode story and story arc.)
+
+But, across many episodes there can be another (different) story too.
+(I.e., an inter-episode story and story arc.)
+
+An example of this latter story and story arc (i.e., of this inter-episode story and story arc) are
+the long stories told in television (TV) shows across multiple episodes in a season.
+
+If you are a vlogger (where a ‘season’ wouldn't be defined quite the same way), a _‘season’_ could be related to life events.
+
+For example, trying to create a company.
+Or, you or your wife getting pregnant and (eventually) giving birth to your child.
+Or, your journey through school.
+Etc.

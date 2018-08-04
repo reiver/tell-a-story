@@ -280,13 +280,13 @@ You can tell other types of stories.
 But it can be useful to be aware of this framework.
 And even make use of it sometimes.)
 
-The 3 main stages of the _monomyth_ / _hero's journey_ is:
+The 3 main stages or _acts_ of the _monomyth_ / _hero's journey_ is:
 
 * the **departure**,
 * the **initiation**, and
 * the **return**.
 
-The 3 main stages of the _monomyth_ / _hero's journey_ can be sub-divided into sub-sections:
+The 3 main stages or _acts_ of the _monomyth_ / _hero's journey_ can be sub-divided into sections:
 
 * **departure**
 	* ordinary world
@@ -304,25 +304,29 @@ The 3 main stages of the _monomyth_ / _hero's journey_ can be sub-divided into s
 	* resurrection hero
 	* return with elixir
 
-Note that some who have used the _monomyth_ / _hero's journey_ framework do not always use all of these sub-sections.
+Note that some who have used the _monomyth_ / _hero's journey_ framework do not always use all of these sections.
 Sometimes some are skipped, here and there.
 
 (Also note that there are alternate ways of dividing the 3 main stages of the _monomyth_ / _hero's journey_.)
 
 The meanings of these sub-sections are:
 
-* **departure**
-	* **ordinary world**: this is about the hero's or protagonist's or character's normal life, at the start of the story, before the ‘adventure’ begins.
-	* **call to adventure**: this is about the hero or protagonist or character being faced with something that makes them begin their ‘adventure’. this might be a problem or challenge that needs overcome.
-	* **refusal of the call**: this is about the hero or protagonist or character attempting to refuse the ‘adventure’. maybe because they are afraid. maybe because they have other duties or obligations. maybe because they worry about how much work it will be. maybe because or insecurity. etc.
-	* **meeting with the mentor**: this is about the hero or protagonist or character meeting someone that can ready him for the journey ahead. maybe by providing advice. maybe providing him with something a tool, talismans, artifact, etc that will help the hero or protagonist or character later in their journey.
-	* **crossing the first threshold**: this is about the hero or protagonist or character, for the first time (during this story), leaving their ‘ordinary world’ and ‘crossing the threshold’ into ‘adventure’, (either literally or metaphorically). this could involve danger. this could involve risk. this could involved the unknown. etc.
-* **initiation**
-	* **tests, allies, enemies**
-	* **approach**
-	* **ordeal**
-	* **reward**
-* **return**
-	* **the road back**
-	* **resurrection hero**
-	* **return with elixir**
+
+| Act        | Section                      | Description                                                                                                                                                                                                                                                                                              |
+|------------|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| departure  |                              |                                                                                                                                                                                                                                                                                                           |
+|            | ordinary world               | this is about the hero's or protagonist's or character's normal life, at the start of the story, before the ‘adventure’ begins.                                                                                                                                                                           |
+|            | call to adventure            | this is about the hero or protagonist or character being faced with something that makes them begin their ‘adventure’. this might be a problem or challenge that needs overcome.                                                                                                                          |
+|            | refusal of the call          | this is about the hero or protagonist or character attempting to refuse the ‘adventure’. maybe because they are afraid. maybe because they have other duties or obligations. maybe because they worry about how much work it will be. maybe because or insecurity. etc.                                   |
+|            | meeting with the mentor      | this is about the hero or protagonist or character meeting someone that can ready him for the journey ahead. maybe by providing advice. maybe providing him with something a tool, talismans, artifact, etc that will help the hero or protagonist or character later in their journey.                   |
+|            | crossing the first threshold | this is about the hero or protagonist or character, for the first time (during this story), leaving their ‘ordinary world’ and ‘crossing the threshold’ into ‘adventure’, (either literally or metaphorically). this could involve danger. this could involve risk. this could involved the unknown. etc. |
+| initiation |                              |             |
+|            | tests, allies, enemies       |             |
+|            | approach                     |             |
+|            | ordeal                       |             |
+|            | reward                       |             |
+| return     |                              |             |
+|            | the road back                |             |
+|            | resurrection hero            |             |
+|            | return with elixir           |             |
+

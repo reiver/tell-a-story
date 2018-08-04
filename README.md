@@ -29,7 +29,9 @@ I loved attending meetups. Many of them were like mini- conferences.
 
 And, at least at that point in my career, I really enjoyed going to conferences.
 
-I got to listen to someone talk about an interested topics. I got to have interesting discussions with people after the talk. And many of us would often go to a restaurant afterwards, and eat, drink, and have more interesting discussions.
+At the meetups I attended, I got to listen to someone talk about an interested topics.
+I got to have interesting discussions with people after the talk.
+And many of us would often go to a restaurant afterwards, and eat, drink, and have more interesting discussions.
 
 I made a number of friends, over the years, by going to and being active in meetups.
 

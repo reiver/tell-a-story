@@ -305,3 +305,5 @@ The 3 main stages of the _monomyth_ / _hero's journey_ can be sub-divided into s
 
 Note that some who have used the _monomyth_ / _hero's journey_ framework do not always use all of these sub-sections.
 Sometimes some are skipped, here and there.
+
+(Also note that there are alternate ways of dividing the 3 main stages of the _monomyth_ / _hero's journey_.)

@@ -257,3 +257,51 @@ For example, trying to create a company.
 Or, you or your wife getting pregnant and (eventually) giving birth to your child.
 Or, your journey through school.
 Etc.
+
+
+## Monomyth / Hero's Journey
+
+The previous story type we described was:….
+
+A **character** **wants** something.
+The **character** overcomes **obstacles** to try to get what they **want**.
+The **character** ends up **transformed** as a result, regardless of whether the **character** gets what they **want** or not.
+
+Orthogonal to this, we also talked about the story arc consisting of:
+
+* a **beginning**,
+* a **middle**, and
+* an **end**.
+
+Another story framework that is similar, but more restrictive, to all that is called the **monomyth** or **hero's journey**.
+
+(Note that _not all stories_ have to be a monomyth / hero's journey.
+You can tell other types of stories.
+But it can be useful to be aware of this framework.
+And even make use of it sometimes.)
+
+The 3 main stages of the _monomyth_ / _hero's journey_ is:
+
+* the **departure**,
+* the **initiation**, and
+* the **return**.
+
+The 3 main stages of the _monomyth_ / _hero's journey_ can be sub-divided into sub-sections:
+
+* **departure**
+	* ordinary world
+	* call to adventure
+	* refusal of the call
+	* meeting with the mentor
+* **initiation**
+	* tests, allies, enemies
+	* approach
+	* ordeal
+	* reward
+* **return**
+	* the road back
+	* resurrection hero
+	* return with elixir
+
+Note that those using the _monomyth_ / _hero's journey_ framework do not always use all of these sub-sections.
+Sometimes some are skipped, here and there.

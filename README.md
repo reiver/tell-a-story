@@ -121,7 +121,7 @@ This applies to technical talks. But also to non-technical fields too, and to th
 
 If you have been telling stories for a while, you probably don't even have to intentionally think about _how_ to tell a story.
 
-For the experienced story teller, It is probably very automatic, very unconscious, and very inarticulate.
+For the experienced story teller, it is probably very automatic, very unconscious, and very inarticulate.
 
 If you have been telling stories for a while, it is probably like walking, or seeing, or driving.
 

@@ -203,9 +203,16 @@ The story also has to have meaning to the whomever you are telling it to.
 Saying what you want to say in terms of a _story_ will help keep your audience.
 So _telling a story_ is important.
 
-But content of your story is something orthogonal to this, that matters too.
+But the content of your story is something orthogonal to this, that matters too.
 
-Talking about the history of typewriters to a bunch of cooks will probably eventually bore them, no matter how good of a story you tell.
+For example, talking about _the history of typewriters_ to a bunch of _cooks_ will probably eventually bore them, no matter how good of a story you tell.
 It is probably not something they care about.
 
+¶
+
+_Content_ without _story_ is not enough.
+
+_Story_ without _content_ (your audience cares about) is not enough.
+
+**Both** _content_ and _story_ matter.
 

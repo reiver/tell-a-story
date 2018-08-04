@@ -91,9 +91,9 @@ I've seen ‘good’ talks. And I've seen ‘bad’ talks.
 
 What I noticed is this….
 
-If (when giving a technical talk) you just listed out a bunch of facts, the audience will tend to get bored, many will start looking at their phones (and going on the Internet), and they won't remember most (if any) of what you told them.
+**If (when giving a technical talk) you just listed out a bunch of facts, the audience will tend to get bored, many will start looking at their phones (and going on the Internet), and they won't remember most (if any) of what you told them.**
 
-**But** if you tell and story, and tell the same facts as part of the story, then the audience tends to pay attention, tends to stay engaged, and tends to remember what you said.
+**But if you tell and story, and tell the same facts as part of the story, then the audience tends to pay attention, tends to stay engaged, and tends to remember what you said.**
 
 So **tell a story!** 🙂
 

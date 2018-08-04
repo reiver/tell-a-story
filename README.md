@@ -303,5 +303,5 @@ The 3 main stages of the _monomyth_ / _hero's journey_ can be sub-divided into s
 	* resurrection hero
 	* return with elixir
 
-Note that those using the _monomyth_ / _hero's journey_ framework do not always use all of these sub-sections.
+Note that some who have used the _monomyth_ / _hero's journey_ framework do not always use all of these sub-sections.
 Sometimes some are skipped, here and there.
